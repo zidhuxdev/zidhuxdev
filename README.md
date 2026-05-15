@@ -94,7 +94,7 @@ I care more about how technology affects humans than about flashy demos. Real se
 <details>
 <summary>Some things that define the work</summary>
 
-- Built a fully client-side web diary tool that gives users their own clean URL — no backend, no accounts
+- Built a fully aesthetic web diary maker tool that gives users their own clean URL 
 - Created several playful interactive experiences (proposal pages, custom generators) that spread organically
 - Portfolio and most personal projects stay deliberately lightweight and framework-free
 - Strong focus on ethical research and making security concepts accessible to younger audiences
