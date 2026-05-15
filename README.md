@@ -46,21 +46,6 @@ I care more about how technology affects humans than about flashy demos. Real se
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zidhuxdev&show_icons=true&theme=radical&hide=contribs,prs&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhuxdev&theme=radical" width="49%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhuxdev&layout=compact&theme=radical&card_width=465" width="49%" />
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
