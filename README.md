@@ -9,7 +9,8 @@
 
 <!-- Animated typing header -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=00D9FF&background=0D1117&multiline=true&width=820&height=78&lines=Cybersecurity+Researcher+%26+Developer;Building+secure%2C+minimal+digital+experiences;Founder+%40+Teen+Squad;Pure+web+craftsman+from+Kerala)
-
+<br>
+<br>
 <!-- Profile visitor counter -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=zidhuxdev&label=profile+views&color=00D9FF&style=flat-square" alt="Profile views" />
