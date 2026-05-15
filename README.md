@@ -1,14 +1,9 @@
-<!--
-  GitHub Profile README — zidhuxdev
-  Minimal + cyberpunk + handcrafted developer aesthetic
-  All external services (stats, typing, visitor) are dynamic.
-  Tweak colors, lines, or themes as needed. Dark mode friendly.
--->
+
 
 <div align="center">
 
 <!-- Animated typing header -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=00D9FF&background=0D1117&multiline=true&width=820&height=78&lines=Cybersecurity+Researcher+%26+Developer;Building+secure%2C+minimal+digital+experiences;Founder+%40+Teen+Squad;Pure+web+craftsman+from+Kerala)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=00D9FF&background=0D1117&multiline=true&width=820&height=100&lines=Cybersecurity+Researcher+%26+Developer;Building+secure%2C+minimal+digital+experiences;Founder+%40+Teen+Squad;Pure+web+craftsman+from+Kerala)
 <br>
 <br>
 <!-- Profile visitor counter -->
