@@ -1,22 +1,36 @@
-
-
 <div align="center">
 
-<!-- Animated typing header -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=00D9FF&background=0D1117&multiline=true&width=820&height=100&lines=Cybersecurity+Researcher+%26+Developer;Building+secure%2C+minimal+digital+experiences;Founder+%40+Teen+Squad;Pure+web+craftsman+from+Kerala)
+# Sidharth S · zidhuxd
+
+**Cybersecurity Researcher & Developer**  
+Building clean, lightweight, people-first digital experiences  
+Founder of [Teen Squad](https://www.teensquad.tech) · From Kerala, India
+
 <br>
-<br>
-<!-- Profile visitor counter -->
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0c2h6eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="coding cat"/>
+
+<br><br>
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=zidhuxdev&label=profile+views&color=00D9FF&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/zidhuxdev">
+    <img src="https://img.shields.io/badge/GitHub-zidhuxdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/zidhuxd">
+    <img src="https://img.shields.io/badge/LinkedIn-zidhuxd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/zidhuxd">
+    <img src="https://img.shields.io/badge/Instagram-@zidhuxd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://zidhuxd.com">
+    <img src="https://img.shields.io/badge/Portfolio-zidhuxd.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<!-- Connect badges -->
 <p>
-  <a href="https://github.com/zidhuxdev"><img src="https://img.shields.io/badge/GitHub-zidhuxdev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/zidhuxd"><img src="https://img.shields.io/badge/LinkedIn-zidhuxd-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/zidhuxd"><img src="https://img.shields.io/badge/Instagram-@zidhuxd-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://zidhuxd.com"><img src="https://img.shields.io/badge/Portfolio-zidhuxd.com-00D9FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zidhuxdev&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/ORCID-0009--0004--0138--1965-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+  <img src="https://img.shields.io/badge/GitHub%20Student-Developer-181717?style=flat-square&logo=github" alt="GitHub Student"/>
 </p>
 
 </div>
@@ -25,19 +39,22 @@
 
 ## About Me
 
-I'm a cybersecurity researcher and developer from Kerala, India. I build things that feel deliberate — clean interfaces, lightweight tools, and systems that respect the people using them.
+I'm a cybersecurity researcher and developer from Kerala.  
+I build deliberate things — clean interfaces, lightweight tools, and systems that respect the people using them.
 
-Most of my work lives in the browser. My personal site is pure HTML, CSS, and JavaScript with PWA features. I founded Teen Squad to help teenagers get into technology and created ZidhuGram, a web project that connected with a large early audience and supported a local charity drive.
+Most of my work lives in the browser. My personal site is pure HTML, CSS, and JavaScript with PWA features.  
+I founded **Teen Squad** to help teenagers get into technology, and created **ZidhuGram**, a project that reached 50K+ organic visitors and supported a local charity drive feeding hundreds of children.
 
-I care more about how technology affects humans than about flashy demos. Real security starts with understanding people, not just accounts.
+I care more about how technology affects humans than about flashy demos.  
+**Real security starts with understanding people, not just accounts.**
 
 ---
 
 ## Currently Working On
 
-- Refining zidhuxd.com with better performance, PWA patterns, and thoughtful interactions
+- Refining [zidhuxd.com](https://zidhuxd.com) — performance, PWA patterns, thoughtful interactions
 - Growing Teen Squad programs and community initiatives
-- Exploring new lightweight web experiments and personal tools
+- Lightweight web experiments and personal tools
 - Ongoing security research and awareness projects
 
 ---
@@ -57,13 +74,13 @@ I care more about how technology affects humans than about flashy demos. Real se
 </div>
 
 <details>
-<summary><strong>More tools &amp; practices I use</strong></summary>
+<summary><strong>More tools & practices</strong></summary>
 
-- Browser DevTools &amp; performance profiling
-- OSINT and ethical security workflows
-- Static site patterns and thoughtful SEO
-- Minimal viable products over heavy frameworks
-- Documentation as a first-class citizen
+- Browser DevTools & performance profiling  
+- OSINT and ethical security workflows  
+- Static site patterns + thoughtful SEO  
+- Minimal viable products over heavy frameworks  
+- Documentation as a first-class citizen  
 
 </details>
 
@@ -81,31 +98,29 @@ I care more about how technology affects humans than about flashy demos. Real se
 
 ## Digital Footprint
 
-- Portfolio &amp; experiments: [zidhuxd.com](https://zidhuxd.com)
-- Youth tech community: [teensquad.tech](https://www.teensquad.tech/)
-- Early ZidhuGram traction included strong user adoption and a charity component supporting hundreds of children
-- Active open-source contributor with consistent GitHub activity
-- ORCID and other research profiles maintained
+- Portfolio & experiments → [zidhuxd.com](https://zidhuxd.com)
+- Youth tech community → [teensquad.tech](https://www.teensquad.tech)
+- ZidhuGram → 50K+ organic visitors + charity impact
+- 650+ GitHub contributions in 2025
+- ORCID research identity maintained
 
 ---
 
-## Fun Facts
+## Fun Facts & Stickers
 
-<details>
-<summary>Some things that define the work</summary>
+<div align="center">
 
-- Built a fully aesthetic web diary maker tool that gives users their own clean URL 
-- Created several playful interactive experiences (proposal pages, custom generators) that spread organically
-- Portfolio and most personal projects stay deliberately lightweight and framework-free
-- Strong focus on ethical research and making security concepts accessible to younger audiences
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120" alt="cute cat"/>
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="120" alt="cat coding"/>
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" alt="hacker cat"/>
 
-</details>
+</div>
 
----
-
-## Late-Night Coding Status
-
-Usually active after 10–11 PM IST. Best ideas tend to appear when the rest of the world is quiet. Fueled by curiosity and decent coffee.
+- Built a fully aesthetic web diary maker that gives users their own clean URL  
+- Created playful interactive experiences that spread organically  
+- Portfolio and most personal projects stay deliberately framework-free  
+- Strong focus on ethical research and making security accessible to younger audiences  
+- Late-night coding (usually after 10–11 PM IST) is when the best ideas appear  
 
 ---
 
@@ -121,5 +136,5 @@ $ ./current-focus.sh
 $ echo $PHILOSOPHY
 People first. Accounts second.
 
-$ status
-ethically curious
+$ cat status.txt
+ethically curious + coffee fueled
