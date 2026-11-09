@@ -6,7 +6,7 @@
 Building clean, lightweight, people-first digital experiences  
 Founder of [Teen Squad](https://www.teensquad.tech) · COO at [Hacktura](https://hacktura.in) · From Kerala, India
 
-<br><br>
+<br>
 
 <p>
   <a href="https://github.com/zidhuxdev">
