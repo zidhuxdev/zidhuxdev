@@ -6,10 +6,6 @@
 Building clean, lightweight, people-first digital experiences  
 Founder of [Teen Squad](https://www.teensquad.tech) · COO at [Hacktura](https://hacktura.in) · From Kerala, India
 
-<br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0c2h6eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eWl0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="coding cat"/>
-
 <br><br>
 
 <p>
