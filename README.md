@@ -120,47 +120,6 @@ I build deliberate things — clean interfaces, lightweight tools, and systems t
 
 ---
 
-## Fun Facts & Stickers
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="120" alt="cute cat"/>
-<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="120" alt="cat coding"/>
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" alt="hacker cat"/>
-
-</div>
-
-- 🐋 Built **WhaleRAT** — a dual-mode Android RAT & C2 framework for security research
-- 📖 Created a **fully aesthetic web diary maker** (KeyDrop) giving users their own clean URL
-- 🎯 **50K+ organic visitors** on ZidhuGram with real-world charity impact
-- 🌙 **Late-night coding** (usually after 10–11 PM IST) is when the best ideas appear
-- 📚 **Framework-free portfolio** — pure HTML/CSS/JS with PWA, GSAP, and custom cursor
-- 🛡️ **Ethical research focus** — making security accessible to younger audiences
-- 📍 **From Kerala, India** — building for global impact from God's Own Country
-
----
-
-## Terminal
-
-```bash
-$ whoami
-zidhuxd
-
-$ ./current-focus.sh
-→ Research • Build • Mentor • Repeat
-
-$ echo $PHILOSOPHY
-People first. Accounts second.
-
-$ cat status.txt
-ethically curious + coffee fueled
-
-$ uptime
-up 650+ contributions in 2025
-```
-
----
-
 <div align="center">
 
 **Thanks for visiting!** ⭐ Star a repo if you find something useful.
