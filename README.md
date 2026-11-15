@@ -52,6 +52,6 @@ I'm a cybersecurity researcher, ethical hacker, and web/Android developer — re
 
 [zidhuxd.com](https://zidhuxd.com) · [blog](https://zidhuxd.com/blog/) · [contact](https://zidhuxd.com/contact/)
 
-<img src="cat.gif" width="200" alt="cat typing" />
+<img src="cat.gif" width="100%" alt="cat typing" />
 
 </div>
