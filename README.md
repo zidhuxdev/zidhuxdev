@@ -1,129 +1,92 @@
 <div align="center">
 
-# Sidharth S · zidhuxd
+# Sidharth S
+**zidhuxd**
 
-**Cybersecurity Researcher & Developer**  
-Building clean, lightweight, people-first digital experiences  
-Founder of [Teen Squad](https://www.teensquad.tech) · COO at [Hacktura](https://hacktura.in) · From Kerala, India
+Cybersecurity Researcher · Developer · Founder  
+Kerala, India
 
-<br>
+[![Portfolio](https://img.shields.io/badge/zidhuxd.com-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://zidhuxd.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zidhuxdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zidhuxd)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/zidhuxd)
 
-<p>
-  <a href="https://github.com/zidhuxdev">
-    <img src="https://img.shields.io/badge/GitHub-zidhuxdev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/zidhuxd">
-    <img src="https://img.shields.io/badge/LinkedIn-zidhuxd-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/zidhuxd">
-    <img src="https://img.shields.io/badge/Instagram-@zidhuxd-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://zidhuxd.com">
-    <img src="https://img.shields.io/badge/Portfolio-zidhuxd.com-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=zidhuxdev&label=Profile+Views&color=0ae448&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/ORCID-0009--0004--0138--1965-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
-  <img src="https://img.shields.io/badge/GitHub%20Student-Developer-181717?style=flat-square&logo=github" alt="GitHub Student"/>
-  <img src="https://img.shields.io/badge/Youngest%20Cybersecurity%20Researcher-Kerala-0ae448?style=flat-square" alt="Youngest Cybersecurity Researcher Kerala"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=zidhuxdev&label=Profile+Views&color=0ae448&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## About Me
+> **“Real hackers hack people, not accounts.”**
 
-I'm **Sidharth S**, known online as **zidhuxd** — a cybersecurity researcher, ethical hacker, Android developer, and web developer from Kerala, India. Recognized as the **youngest cybersecurity researcher in Kerala**, I serve as **Chief Operating Officer (COO) of Hacktura – Cyber X Kerala** and founded **Teen Squad**, a youth-led technology community empowering teenagers through coding, cybersecurity, and social impact.
+I'm a cybersecurity researcher and developer focused on clean systems, Android internals, and lightweight web experiences.  
+Founder of **[Teen Squad](https://www.teensquad.tech)** and COO at **Hacktura**.
 
-I build deliberate things — clean interfaces, lightweight tools, and systems that respect the people using them. Most of my work lives in the browser: my personal site is pure HTML, CSS, and JavaScript with PWA features, zero heavy frameworks.
-
-> **"Real hackers hack people, not accounts"**
-
----
-
-## Currently Working On
-
-- 🔬 **Security Research** — Android internals, RAT/C2 frameworks, mobile threat intelligence
-- 🌐 **zidhuxd.com** — Performance, PWA patterns, thoughtful interactions, GSAP animations
-- 👥 **Teen Squad** — Growing programs, community initiatives, youth tech education in Kerala
-- 🛠 **Lightweight Web Experiments** — Personal tools, diary makers, interactive experiences
-- 📚 **Documentation & Knowledge Sharing** — Making security accessible to younger audiences
+Most of what I build lives in the browser — pure HTML, CSS, and JavaScript. No heavy frameworks.
 
 ---
 
-## Featured Projects
+### Currently
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| **[WhaleRAT](https://github.com/zidhuxdev/WhaleRAT)** | Dual-mode Android RAT & C2 security research framework — Telegram & web-based, no port forwarding needed | Kotlin, Java, Node.js | 🚀 Active |
-| **[Best Magisk Modules 2026](https://github.com/zidhuxdev/Best-Magisk-Modules-2026)** | Curated list of useful Magisk modules for rooted Android with compatibility notes & installation guides | Markdown, Shell | 📦 Maintained |
-| **[KeyDrop](https://github.com/zidhuxdev/KeyDrop)** | Clean, aesthetic web diary maker giving users their own personal URL | HTML, CSS, JS, Vercel | ✨ Live |
-| **[Teen Squad](https://www.teensquad.tech)** | Youth tech community platform — custom cursor, noise grain, Anton/Raleway/JetBrains Mono typography | HTML, CSS, JS | 🌱 Growing |
-
-> **WhaleRAT** reached **50K+ organic visitors** and supported a local charity drive feeding hundreds of children via **ZidhuGram**.
+- **Security Research** — Android internals, mobile threat intelligence, C2 frameworks  
+- **zidhuxd.com** — Performance, PWA patterns, thoughtful interactions  
+- **Teen Squad** — Youth tech community & initiatives in Kerala  
+- **Open tools** — Small, useful experiments that respect the user
 
 ---
 
-## Tech Stack & Practices
+### Featured Work
 
-<div align="center">
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[WhaleRAT](https://github.com/zidhuxdev/WhaleRAT)** | Dual-mode Android RAT & C2 research framework (Telegram + web) | Active |
+| **[KeyDrop](https://github.com/zidhuxdev/KeyDrop)** | Aesthetic web diary maker with personal URLs | Live |
+| **[Best Magisk Modules 2026](https://github.com/zidhuxdev/Best-Magisk-Modules-2026)** | Curated Magisk modules with notes & guides | Maintained |
+| **[Teen Squad](https://www.teensquad.tech)** | Youth-led tech community platform | Growing |
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> WhaleRAT hit **50K+ organic visitors** and helped fund a charity drive that fed hundreds of children through ZidhuGram.
 
-</div>
+---
+
+### Stack
+
+`JavaScript` · `TypeScript` · `HTML/CSS` · `Kotlin` · `Node.js` · `Android` · `Linux` · `Vercel`
 
 <details>
-<summary><strong>More tools & practices</strong></summary>
+<summary>More</summary>
 
-- **Security & Research**: OSINT, ethical hacking workflows, bug bounty methodology, Android internals, C2 infrastructure, Magisk/root ecosystem
-- **Web & Performance**: Static site patterns, PWA/Service Workers, Core Web Vitals optimization, GSAP animations, thoughtful SEO, schema.org structured data
-- **Development Philosophy**: Minimal viable products over heavy frameworks, documentation as a first-class citizen, browser DevTools profiling, privacy-respecting analytics
-- **Community & Education**: Youth mentorship, security awareness for teens, open-source advocacy, technical writing
+- Security: OSINT, ethical hacking, Android internals, Magisk/root ecosystem  
+- Web: Static sites, PWA/Service Workers, Core Web Vitals, GSAP  
+- Philosophy: Minimal over heavy frameworks. Documentation as a first-class citizen.
 
 </details>
 
 ---
 
-## GitHub Stats
-
-
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhuxdev&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zidhuxdev&theme=tokyonight&hide_border=true&date_format=M%20j%2C%20Y" alt="GitHub Streak" width="450"/>
 
 </div>
 
 ---
 
-## Digital Footprint
+### Elsewhere
 
-- 🌐 **Portfolio & Experiments** → [zidhuxd.com](https://zidhuxd.com)
-- 👥 **Youth Tech Community** → [teensquad.tech](https://www.teensquad.tech)
-- 🐋 **WhaleRAT Research** → [zidhuxd.com/WhaleRAT](https://zidhuxd.com/WhaleRAT/)
-- 📝 **Blog & Research** → [zidhuxd.com/blog](https://zidhuxd.com/blog/)
-- 🎨 **Gallery** → [zidhuxd.com/gallery](https://zidhuxd.com/gallery/)
-- 🔬 **ORCID Research Identity** → [orcid.org/0009-0004-0138-1965](https://orcid.org/0009-0004-0138-1965)
-- 💬 **Contact** → [zidhuxd.com/contact](https://zidhuxd.com/contact/) · zidhuxd@gmail.com
+- Portfolio → [zidhuxd.com](https://zidhuxd.com)  
+- Teen Squad → [teensquad.tech](https://www.teensquad.tech)  
+- Research → [orcid.org/0009-0004-0138-1965](https://orcid.org/0009-0004-0138-1965)  
+- Contact → zidhuxd@gmail.com
 
 ---
 
+<img src="cat.gif">
+
 <div align="center">
 
-**Thanks for visiting!** ⭐ Star a repo if you find something useful.
+Thanks for stopping by.  
+⭐ Star a repo if something was useful.
 
-*Last updated: November 2026*
+*Updated November 2026*
 
 </div>
